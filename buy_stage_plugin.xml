@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+    <name>Buy Stage Plugin</name>
+    <author>WebEngine Developer</author>
+    <version>1.0.0</version>
+    <description>A comprehensive plugin for displaying Mu Online Season 6 character sets with pricing and bonuses. Features admin panel management, customizable stages, and responsive widget positioning.</description>
+    <compatibility>
+        <webengine>1.2.6</webengine>
+    </compatibility>
+    <folder>buy_stage</folder>
+    <files>
+        <file>loader.php</file>
+        <file>admin.php</file>
+        <file>style.css</file>
+        <file>script.js</file>
+    </files>
+    <features>
+        <feature>Stage management with pricing</feature>
+        <feature>Item management for all character classes</feature>
+        <feature>Admin panel integration</feature>
+        <feature>Responsive widget positioning</feature>
+        <feature>Modal item details display</feature>
+        <feature>Mu Online Season 6 character sets</feature>
+        <feature>Wing and enhancement support</feature>
+    </features>
+</plugin>
